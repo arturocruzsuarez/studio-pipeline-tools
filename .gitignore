@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Media Files
+*.mp4
+*.mov
+*.avi
+
+# Excepciones (para que SÍ puedas subir tu video de entrada)
+!input.mp4
